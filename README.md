@@ -25,10 +25,9 @@ O simulador está dividido em áreas práticas do dia a dia de um assistente adm
 ## 💡 Como Acessar
 
 Você pode acessar a versão interativa online publicada através do link abaixo:
-👉 👉 **[Clique aqui para acessar o Simulador](https://itamaracebrac-pixel.github.io/simulador-financeiro/)**
+👉 👉 [Clique aqui para acessar o Simulador](https://itamaracebrac-pixel.github.io/simulador-financeiro/)
 
 ---
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5 / CSS3** (com Tailwind CSS para design responsivo e moderno)
